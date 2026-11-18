@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**JVogt990/jvogt990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Current Position:
 Deputy Program Manager for the Earth Prediction Innovation Center (EPIC)
 Special Advisor to the NOAA Administrator on UFS Governance
@@ -24,4 +21,3 @@ Establishing Governance Structures
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
